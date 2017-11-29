@@ -1,0 +1,100 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/5722a3d3bfed4238e04a74c608e5aba0f1113e28.jpg"
+    },
+    "_id": "59a71aef386d4fc6360acce7",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">All organisations face risks in their activities - the key is to manage and minimise those risks. In this module we explore solutions to&nbsp;risks for businesses using open data published by other organisations.</p>",
+    "displayTitle": "Inbound Open Data Risk Management",
+    "title": "Inbound Open Data Risk Management",
+    "_aboutPage": {
+      "_items": [],
+      "SL_text": "",
+      "aboutCredit": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Identify the risks of using inbound open data",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain how risk severity varies based on the context of an organisation",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe solutions to manage open data risks",
+          "credits": 5,
+          "level": null
+        }
+      ]
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d368435d6ec911c7a728c70a0ddaf351f0b54c54.png"
+    },
+    "_id": "59b7ee0c386d4fc6360aceb7",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">From inbound open data to outbound open data. For businesses, publishing data can often introduce new unfamiliar risks which need to be managed.&nbsp;In this module we explore solutions for these risks</p>",
+    "displayTitle": "Outbound Open Data Risk Management",
+    "title": "Outbound Open Data Risk Management",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Identify the risks of publishing outbound open data",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe solutions to managing outbound open data risks",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain how outbound risk severity varies based on the context of an organisation",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  }
+]

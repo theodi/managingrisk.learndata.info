@@ -1,0 +1,1798 @@
+[
+  {
+    "_id": "59b7e58c386d4fc6360acdea",
+    "_layout": "full",
+    "_parentId": "59b7e56e386d4fc6360acde7",
+    "_type": "component",
+    "body": "<p>Context is important&nbsp;in understanding&nbsp;risk. Even organisations which offer&nbsp;similar products in a similar sector,&nbsp;face different risks, due to&nbsp;their business model.</p>",
+    "displayTitle": " ",
+    "title": " Context",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59a72375386d4fc6360acd30",
+    "_layout": "left",
+    "_parentId": "59a722f8386d4fc6360acd2f",
+    "_type": "component",
+    "body": "<p><strong>Which of the following are inbound open data risks?</strong></p>",
+    "displayTitle": "Inbound open data risks",
+    "title": "Inbound open data risks",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "A publisher may alter how their open data sources are formatted.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": " New or existing competitors may try to imitate your products and services.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A publisher may decide to close a source of open data.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Competitors have access to your organisation's data.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your customers will lose trust in your organisation.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Typical examples of inbound open data risks are: a&nbsp;publisher may alter how their open data sources are formatted;&nbsp;new or existing competitors may try to imitate your products and services; or a&nbsp;publisher may decide to close a source of open data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Typical examples of inbound open data risks are: a&nbsp;publisher may alter how their open data sources are formatted;&nbsp;new or existing competitors may try to imitate your products and services; or a&nbsp;publisher may decide to close a source of open data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59a71b21386d4fc6360acceb",
+    "_layout": "right",
+    "_parentId": "59a71aef386d4fc6360acce9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59a71b1f386d4fc6360accea",
+    "_layout": "left",
+    "_parentId": "59a71aef386d4fc6360acce9",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">All organisations face risks in their activities - the key is to manage and minimise those risks.</p><p dir=\"ltr\">&lsquo;Inbound open data&rsquo; is open data that is published by external organisations, but is used in your organisation&rsquo;s products and/or activities.</p><p dir=\"ltr\">To use it successfully, you need to be able to identify the potential risks associated with using a particular source and consider solutions to manage problems that could arise.</p><p dir=\"ltr\">In this module, we explore:</p><ul><li dir=\"ltr\">Risks associated with using inbound open data</li><li dir=\"ltr\">Solutions to manage inbound open data risk</li><li dir=\"ltr\">How inbound risk severity varies based on the context of an organisation</li></ul>",
+    "displayTitle": "Inbound Open Data Risk Management",
+    "title": "Inbound Open Data Risk Management",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59a71f15386d4fc6360acd00",
+    "_layout": "right",
+    "_parentId": "59a71ef3386d4fc6360accff",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">It is impossible to indicate which of these risks are the most severe or difficult to manage, as this will vary for each organisation, due to differences in the types of open data used, its overall activities, markets, products and services.</p><p dir=\"ltr\">Some of these risks will be more relevant to your organisation than others, so take time to consider the likelihood of a particular risk occurring, but also its severity, and how easily the risk can be managed. &nbsp;</p><p dir=\"ltr\">For example, Citymapper use live open data from TfL to enable their app to function, while Total Car Check, use data from the police and DVLA. They are both exposed to different risks, which vary in the likelihood they will occur and their severity.&nbsp;</p><p dir=\"ltr\">The risk severity for both Citymapper and Total Car Check can be explored&nbsp;below.&nbsp;</p>",
+    "displayTitle": "Risk likelihood severity in context",
+    "title": "Risk likelihood severity in context",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59a71f8f386d4fc6360acd02",
+    "_layout": "left",
+    "_parentId": "59a71ef3386d4fc6360accff",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5734ee366b55a36d92ee7057a24bd9f79ee7902e.jpg",
+      "small": "course/en/assets/5734ee366b55a36d92ee7057a24bd9f79ee7902e.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/slopjop/2391468254/in/photolist-4DjUch-njbKbd-rbQ25z-qAepad-9Bc55F-s8Nhs-Wr8jS8-QAZQNc-cXAig3-TsXpUJ-KjBwp-k8rVoc-4jFJRp-GsWPS-dThdEA-rQABpi-akY1MB-WYMuDN-Gt21F-nuUkDh-jQWGua-REZCd-neYJUL-e5z7Kc-jGKvSQ-kF2gHu-rdrczo-qN2Vqy-qB7X-Vu8tzi-avo6ZM-hBR9WW-4yGzmA-31oeuB-niKLWR-5nAmLP-5jPX82-7WK1hM-EL5Z7b-oEA4hg-egTZ23-dhdxnb-c5PhPq-4bLGhG-4DfEdr-vV77nW-5udiXM-8feyaz-7EcsSu-VZ8jAi\" target=\"_blank\">Clay Junell</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59a72089386d4fc6360acd0e",
+    "_layout": "left",
+    "_parentId": "59a7207a386d4fc6360acd0d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Citymapper",
+    "title": "Citymapper",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Technological (Low risk / High severity)",
+        "body": "<p>If TfL changed the format of its open data sources without notice, this would disrupt the Citymapper app (high severity) but TfL provides advance notice of changes, making this unlikely (low likelihood)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Imitation (High risk / High severity)",
+        "body": "<p>It&rsquo;s quite easy for competitors to access the same TfL data to create transport apps (high likelihood) - and many already exist (high severity), so Citymapper has to innovate to create a superior product.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Closure (Low risk / High severity)",
+        "body": "<p>If TfL closed some of its real time open data sources without notice, this would permanently disrupt the Citymapper app (high severity). However, TfL benefits from the Citymapper app, as it is used by TfL&rsquo;s customers, so it would not be beneficial to close the data (low likelihood).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "License compliance ( Low risk / Low severity)",
+        "body": "<p>TfL uses clear, open licensing, so as long as Citymapper follows this, there should be no issue (low likelihood). TfL is keen to facilitate the use of open data and it is helped by Citymapper, so the risk of sanctions are limited (low severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legal ( Low risk / Low severity)",
+        "body": "<p>The app uses robust open data, has been tested and is established, so is unlikely to &nbsp;fail and cause disruption (likelihood low). Many people use Citymapper as a free product and could be inconvenienced if the app malfunctioned, but they would not suffer substantial losses (low severity)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ethical (Low risk / Low severity)",
+        "body": "<p>The open data used in the transport app is based on non-human assets, such as timetables and routes rather than people (low severity and low likelihood).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59a7208c386d4fc6360acd0f",
+    "_layout": "right",
+    "_parentId": "59a7207a386d4fc6360acd0d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Total Car Check",
+    "title": "Total Car Check",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Technological (Low risk / Med severity)",
+        "body": "<p>If the Police or DVLA changed the format of their open data sources without notice, this could disrupt some features of the app. The impact would be limited as the service uses additional proprietary data (medium severity). However, the Police and DVLA would provide advance notice of changes, making this unlikely (low likelihood)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Imitation (Med risk / Med severity)",
+        "body": "<p>It&rsquo;s quite easy for competitors to access the same open data to create &nbsp;similar apps (medium likelihood), but the use of proprietary data adds additional features and makes the product more difficult to imitate. &nbsp;There are other competing apps, but the market for second hand cars is not niche, limiting the effect (medium severity)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Closure (Low risk / Med severity)",
+        "body": "<p>If the Police and DVLA closed relevant open data sources without notice, this would disrupt the app, although other sources of proprietary data remain available (medium severity). However, unlike relying on a start-up publishing open data, the continued publication from government authorities suggests sustainability around the data&rsquo;s availability (low likelihood).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "License compliance (Low risk / Low severity)",
+        "body": "<p>The Police and DVLA use clear, open licensing, so as long as Total Car check follows this, there should be no issue (low likelihood). Government departments are keen to publish data, so the risk of sanctions are limited (low severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legal (Low risk / Low severity)",
+        "body": "<p>The app uses robust open and proprietary data, has been tested and is established, so is unlikely to &nbsp;fail and cause disruption (likelihood low). If a loss was incurred through using the service, there is a data guarantee in place for the consumer, so some legal risks are managed (low severity)&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ethical (Low risk / Low severity)",
+        "body": "<p>The open data used in the app is based on a vehicle rather than people (low severity and low likelihood).&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59a722da386d4fc6360acd12",
+    "_layout": "right",
+    "_parentId": "59a722c0386d4fc6360acd10",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-one",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59a723be386d4fc6360acd38",
+    "_layout": "right",
+    "_parentId": "59a72392386d4fc6360acd35",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5734ee366b55a36d92ee7057a24bd9f79ee7902e.jpg",
+      "small": "course/en/assets/5734ee366b55a36d92ee7057a24bd9f79ee7902e.jpg",
+      "attribution": "<a href=\"https://www.flickr.com/photos/slopjop/2391468254/in/photolist-4DjUch-njbKbd-rbQ25z-qAepad-9Bc55F-s8Nhs-Wr8jS8-QAZQNc-cXAig3-TsXpUJ-KjBwp-k8rVoc-4jFJRp-GsWPS-dThdEA-rQABpi-akY1MB-WYMuDN-Gt21F-nuUkDh-jQWGua-REZCd-neYJUL-e5z7Kc-jGKvSQ-kF2gHu-rdrczo-qN2Vqy-qB7X-Vu8tzi-avo6ZM-hBR9WW-4yGzmA-31oeuB-niKLWR-5nAmLP-5jPX82-7WK1hM-EL5Z7b-oEA4hg-egTZ23-dhdxnb-c5PhPq-4bLGhG-4DfEdr-vV77nW-5udiXM-8feyaz-7EcsSu-VZ8jAi\" target=\"_blank\">Clay Junell</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59a7238f386d4fc6360acd33",
+    "_layout": "right",
+    "_parentId": "59a7237d386d4fc6360acd32",
+    "_type": "component",
+    "body": "<p><strong>Ideally, what is the best solution to overcome closure risk?</strong></p>",
+    "displayTitle": "Overcoming inbound data risks",
+    "title": "Overcoming inbound data risks",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Create a service that is beneficial for the open data publisher.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Attempt to obtain the data without permission.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Give up immediately.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Creating a service that is beneficial for the open data publisher means that they are less likely to close the data. For example, there are over 600 apps that use open data published by Transport for London. These applications can support the journeys&nbsp;of a far wider audience, sometimes with specific travel needs, than&nbsp;TfL would be able to by itself.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Creating a service that is beneficial for the open data publisher means that they are less likely to close the data. For example, there are over 600 apps that use open data published by Transport for London. These applications can support the journeys&nbsp;of a far wider audience, sometimes with specific travel needs, than&nbsp;TfL would be able to by itself.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59a723a3386d4fc6360acd36",
+    "_layout": "left",
+    "_parentId": "59a72392386d4fc6360acd35",
+    "_type": "component",
+    "body": "<p><strong>Why does CityMapper&nbsp;not have to worry about inbound ethical risk?</strong></p>",
+    "displayTitle": "Risk likelihood severity in context",
+    "title": "Risk likelihood severity in context",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "The data doesn't contain any personally identifiable data.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Because they are a startup, so ethics don't apply.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Because CityMapper's product is free to use.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The inbound open data that Citymapper uses includes data on timetables, location of bus stops and station facilities. They don&#39;t use data that contains&nbsp;any personally identifiable data. If they started using data about people, then they would have to consider ethical risks.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The inbound open data that Citymapper uses includes data on timetables, location of bus stops and station facilities. They don&#39;t use data that contains&nbsp;any personally identifiable data. If they started using data about people, then they would have to consider ethical risks.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acec4",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360aceb9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360aced5",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acebb",
+    "_type": "component",
+    "body": "<p>Failing to follow the legal obligations&nbsp;is just as much an issue with using open data as with commercially available data. However publishing&nbsp;data openly, there are also ethical risks to take into account.</p>",
+    "displayTitle": "Legal and ethical risks",
+    "title": "Legal and ethical risks",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore the implication of each risk on using open data below:",
+    "_items": [
+      {
+        "title": "Legal risks",
+        "body": "<p dir=\"ltr\"><strong>Risk:</strong> A company may use your open data to produce a product or service which malfunctions, due to your open data being inaccurate, creating potential for losses and damages.</p><p dir=\"ltr\"><strong>Identification:</strong> You may be contacted by an open data consumer, one of their clients, or a legal representative about losses they claim have emerged from using your data.</p><p dir=\"ltr\"><strong>Solution:</strong> Ensure that your open data is as accurate as possible. When developing your licensing conditions, ensure that you stipulate that you do not take responsibility for problems that arise from using your open data. It may be useful to seek legal advice in developing this.</p><p dir=\"ltr\"><strong>Example</strong>: Open Banking provides APIs on bank data, such as transactions, bank ATM and branch locations for external developers. In the terms and conditions, it sets out its <a href=\"https://www.openbanking.org.uk/terms/\" target=\"_blank\">limitations of liability</a> to external organisations. Its maximum aggregate liability is limited to &pound;100.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ethical risks",
+        "body": "<p dir=\"ltr\"><strong>Risk:</strong> You publish data that does not conform to ethical codes.</p><p dir=\"ltr\"><strong>Identification:</strong> Consumers, advocacy groups and the user community may discuss breaches of ethical codes privately and/or publicly, or may complain to you directly. Regulators may investigate you. This can create reputational risks, too.</p><p dir=\"ltr\">Be particularly careful when combining different data sources, as if it the data contains personal data, that data will have to be handled in accordance with the law of the jurisdiction where the data was first published.</p><p dir=\"ltr\"><strong>Solution:</strong> Before you publish open data, you need to check if it is anonymised, aggregated and if it follows ethical codes. &nbsp;The British government provides a <a href=\"https://www.gov.uk/government/publications/data-science-ethical-framework\" target=\"_blank\">framework</a> on how to use data ethically and the ICO provides a <a href=\"https://ico.org.uk/media/for-organisations/documents/1068/data_sharing_code_of_practice.pdf\" target=\"_blank\">code of conduct</a> on data sharing that can be used to inform decisions on what to publish and how to publish the data.</p><p dir=\"ltr\"><strong>Example:</strong> Between 2015 and 2017, the ICO undertook an investigation into <a href=\"https://ico.org.uk/for-the-public/charity-fundraising-practices/\" target=\"_blank\">charity fundraising practices</a>, to understand how they comply with laws and protect donor privacy. Some charities, for example, were sharing data with other types of charities that donors did not consent to.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360aced6",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acebc",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">It is impossible to indicate which of these risks are the most severe or difficult to manage, as this will vary for each organisation, due to differences in the sources of open data published, its overall activities, markets, products and services.</p><p dir=\"ltr\">Some of these risks will be more relevant to your organisation than others, so take time to consider the likelihood of a particular risk occurring, but also its severity, and how easily the risk can be managed. &nbsp;</p><p dir=\"ltr\">For example, TfL as a public agency publishes open data, to enable external developers to create transport apps, while OpenCorporates is a social enterprise who publishes data on company information. They are both exposed to different risks, which vary in the likelihood they will occur and their severity.</p>",
+    "displayTitle": "Risk likelihood severity in context",
+    "title": "Risk likelihood severity in context",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acf01",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acebf",
+    "_type": "component",
+    "body": "<p><strong>What are the risks connected with publishing outbound data?</strong></p>",
+    "displayTitle": "What are the risks connected with publishing outbound data?",
+    "title": "What are the risks connected with publishing outbound data?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "You might affect your reputation by publishing data that is inaccurate or dated",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "You might publish data that does not conform to ethical codes.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "You may lose revenue from publishing data that you previously charged for",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "You are going into direct competition with open government data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Your customers will lose trust in your organisation.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Typical examples of inbound open data risks are: affecting your reputation by&nbsp;publishing data that is inaccurate or dated; publishing data that does not conform to ethical codes; or losing revenue from publishing data that you previously charged for.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Typical examples of inbound open data risks are: affecting your reputation by&nbsp;publishing data that is inaccurate or dated; publishing data that does not conform to ethical codes; or losing revenue from publishing data that you previously charged for.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59b7ee0d386d4fc6360acf41",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acec1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "small": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59b7ee0d386d4fc6360acf60",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acec1",
+    "_type": "component",
+    "body": "<p><strong>Why does Transport for London not have to worry about imitation&nbsp;risk?</strong></p>",
+    "displayTitle": "Risk likelihood severity in context",
+    "title": "Risk likelihood severity in context",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Because an imitator would have to be a duplicated government agency",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Because they are a startup, so ethics don't apply.",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Because people need to travel",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Given the unique size and power of TfL, it is unlikely that a competitor could imitate its transport services. As a public body, an imitator would have to be a duplicated government agency (low likelihood and low severity).</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Given the unique size and power of TfL, it is unlikely that a competitor could imitate its transport services. As a public body, an imitator would have to be a duplicated government agency (low likelihood and low severity).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acec7",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360aceb9",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">In the last module, we highlighted how all organisations face risks in their activities. However, publishing open data can often introduce new unfamiliar risks which need to be managed.</p><p dir=\"ltr\">&lsquo;Outbound open data&rsquo; is open data that is published by your organisation and is used externally by the wider community to create new products and services.</p><p dir=\"ltr\">To publish open data successfully, you need to be able to identify the potential risks associated with releasing particular sources and consider solutions to manage problems that could arise.</p><p dir=\"ltr\">In this module, we explore:</p><ul dir=\"ltr\"><li>Risks associated with publishing outbound open data</li><li>Solutions to manage outbound open data risk</li><li>How outbound risk severity varies based on the context of an organisation</li></ul>",
+    "displayTitle": "Outbound Open Data Risk Management",
+    "title": "Outbound Open Data Risk Management",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acec8",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360aceba",
+    "_type": "component",
+    "body": "<p>Open data can enhance the reputation of an organisation, but if used incorrectly can undermine it too, either directly or through a third party. Not publishing open data can also undermine the&nbsp;reputation of an organisation, particularly in regards to openness and transparency.</p><p>Explore each in more detail with examples below:</p>",
+    "displayTitle": " Non-publication, Reputation and Affiliation",
+    "title": " Non-publication, Reputation and Affiliation",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Non-publication risks",
+        "body": "<p dir=\"ltr\"><strong>Risk:</strong> There are a series of risks involved in publishing open data, but ironically one of the biggest risks to an organisation is from not publishing open data in the first place.&nbsp;</p><p dir=\"ltr\">Publishing open data can be a legal requirement, but it can also improve the quality of your data, improve transparency, boost your reputation as an organisation that supports innovation, while enabling you to grow your business and capture new sources of economic value through partnerships.</p><p dir=\"ltr\"><strong>Identification</strong>: Developers and users may discuss data shortcomings within the community, or may contact you directly to ask that you publish your data. Public campaigns and requests for open data may also develop if you are a public agency or state institution.&nbsp;</p><p dir=\"ltr\"><strong>Solution:</strong> Ensure that you publish as much open data as you can. Ask why a source of data should not be open, rather than looking for a reason to not open it. Consult with potential users on what data sources would be most useful to them if opened.&nbsp;</p><p dir=\"ltr\"><strong>Example</strong>: Many organisations have begun to publish open data to grow their businesses and to accelerate innovation, such as <a href=\"https://www.nestoria.co.uk/help/api-appgallery\" target=\"_blank\">Nestoria</a>, whose open data is used by developers of real&ndash;estate apps and services. Not publishing open data means that opportunities are lost and benefits cannot be realised.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reputation risks",
+        "body": "<p dir=\"ltr\"><strong>Risk:</strong> You may release data that is inaccurate, dated or published irregularly, affecting your reputation. In some extreme cases, you may close sources of open data. In other extreme cases, you might publish something unintentionally, such as commercially sensitive or personal data, which you then have to close.</p><p dir=\"ltr\">This can undermine the strategic benefits of publishing open data and may contradict legal requirements. Potential users may not see you as a credible publisher and in turn avoid using your data and/or services.</p><p dir=\"ltr\"><strong>Identification: </strong>Developers and users may recognise and discuss data shortcomings within the community, or someone may contact you directly to complain. A public campaign may be launched if you are a state agency.</p><p dir=\"ltr\"><strong>Solution:</strong> Ensure that you check the accuracy of data before you begin publishing it. Ensure that you have sufficient resources to maintain the data sources that you choose to publish and that you keep to timetables for updating open data. Develop channels where consumers can report errors and endeavour to respond quickly.</p><p dir=\"ltr\"><strong>Example:</strong> In the field of company open data, registers and gazettes, the community has celebrated the progressive publication of open data, while <a href=\"http://datadrivenjournalism.net/news_and_analysis/the_state_of_open_corporate_data_wins_and_challenges_ahead\" target=\"_blank\">criticising governments such as Gibraltar and Tanzania who have recently closed sources of open data, and Spain which has resisted calls to publish open data from company registers.</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Affiliation risks",
+        "body": "<p dir=\"ltr\"><strong>Risk:</strong> Consumers of open data may create new products and services that showcase your data, goods or services. This is beneficial, but can become problematic if the company provides low quality products/services, and creates brand risks through affiliation.</p><p dir=\"ltr\"><strong>Identification: </strong>You may receive complaints from the external company&rsquo;s clients about problems with their service, or you may scope out organisations that use your open data and be uncomfortable with how they claim to be affiliated with you.</p><p dir=\"ltr\"><strong>Solution:</strong> Make clear in your licensing that use of your open data does not act as an endorsement and that your trademarks and logos are not to be used. If consumers have to register with you to access your open data, you could restrict their access if they do not follow the licensing agreement.</p><p dir=\"ltr\">If you have developed separate commercial agreements and products around your open data, where the external partner is paid by you for promoting your products and services, you could attempt to work with them to improve their quality, or try to revoke the commercial agreement.</p><p dir=\"ltr\"><strong>Example:</strong> TfL seek to make their open data accessible to many different users. Under their license agreement they stipulate that you must attribute the use of their open data through the statement &#39;Powered by TfL Open Data&#39;. However, they make it clear that <a href=\"https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service#on-this-page-4\" target=\"_blank\">users must not suggest that they are affiliated to TfL and that it doesn&rsquo;t endorse any products or services.</a> <strong> </strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59a71bd4386d4fc6360accef",
+    "_layout": "right",
+    "_parentId": "59a71bc6386d4fc6360accee",
+    "_type": "component",
+    "body": "<p>Open data, unlike other sources of data is available for everyone to access use and share. While technological risks are similar no matter if the data is open or not, there is a potentially greater risk from imitation and data closure. Explore each in more detail with examples below:</p>",
+    "displayTitle": "Technological, Imitation and Closure",
+    "title": "Technological, Imitation and Closure",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Technological risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>A publisher may alter how their open data sources are formatted, which could disrupt your products and services, especially if you access data in &lsquo;real time&rsquo;.</p><p dir=\"ltr\"><strong>Identification: </strong>In a worst case scenario, your products and services will malfunction, but observing the news and blogs of open data publishers can give you potential warning of future changes to data formats.</p><p dir=\"ltr\"><strong>Solution: </strong>By following publisher news and guidance on open data sources you can make plans in advance to alter your products and services, or even provide publishers with feedback on what format would work best for your organisation.</p><p><strong>Example: </strong>HESA recently undertook a consultation of its open data users to help formulate its <a href=\"https://www.hesa.ac.uk/files/Open-data-consultation-summary.pdf\" target=\"_blank\">future Open Data strategy</a>. It provides channels for open data consumers to keep in touch and also enables users to register for automatic updates to get<a href=\"https://www.hesa.ac.uk/innovation/open-data\" target=\"_blank\"> advance notice of changes to HESA open data. </a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Imitation risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>New or existing competitors may try to imitate your products and services, as they can easily access the same open data sources that you use.</p><p dir=\"ltr\"><strong>Identification: </strong>The first time you may become aware of this, is if you begin to lose customers, or by horizon scanning for competitors, and you see that your products and services have already been copied.</p><p dir=\"ltr\"><strong>Solution: </strong>Blending proprietary data with open data can make it more difficult for others to copy your products and services, or you can focus on constant innovation to stay ahead of competitors.</p><p><strong>Example: </strong>Some markets can be more crowded and exposed to imitation risks than others. For example, a quick search of transport apps reveals a very crowded market with many similar and overlapping products. Some are more<a href=\"http://www.gizmodo.co.uk/2016/06/the-best-transport-apps/\" target=\"_blank\"> unique and bespoke</a>, but many are not.<strong> </strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Closure risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>A publisher may decide to close a source of open data that is central to your products and services.</p><p dir=\"ltr\"><strong>Identification: </strong>A worst case scenario would be if your product or service stops working, or alternatively, you find out through publisher blogs or social media about intentions to close the data.</p><p dir=\"ltr\"><strong>Solution: </strong>You may be able to replace the open data source with a proprietary alternative, collate the data yourself, or lobby the publisher to not close the data source - you may even change your product or service. Ideally, try and create a service that is beneficial for the publisher and take a strong stance that your service is only beneficial to them as long as the data remains open.</p><p><strong>Example: </strong><a href=\"https://tfl.gov.uk/info-for/open-data-users/open-data-policy\" target=\"_blank\">Over 600 travel apps in the UK use TfL&rsquo;s open data &nbsp;- with 42% of Londoners using apps powered by their data.</a> This translates into millions of journeys each day. If TfL were to close their data, it could cause them reputational damage in the short term as apps that people use would stop working, causing considerable problems and delays.<strong> </strong></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59a71bd7386d4fc6360accf0",
+    "_layout": "left",
+    "_parentId": "59a71bc6386d4fc6360accee",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
+      "small": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/free-vector/security-icon_1086687.htm#term=risk&page=1&position=30\" target=\"_blank\">Photoroyalty / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59a72391386d4fc6360acd34",
+    "_layout": "left",
+    "_parentId": "59a7237d386d4fc6360acd32",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/424b2f031ef41270627f9a61987e739b824e3d74.jpg",
+      "small": "course/en/assets/424b2f031ef41270627f9a61987e739b824e3d74.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=931845&term=barrier\" target=\"_blank\">Evening_tao / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59a71dcd386d4fc6360accf9",
+    "_layout": "right",
+    "_parentId": "59a71dc2386d4fc6360accf7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/424b2f031ef41270627f9a61987e739b824e3d74.jpg",
+      "small": "course/en/assets/424b2f031ef41270627f9a61987e739b824e3d74.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=931845&term=barrier\" target=\"_blank\">Evening_tao / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59a7237c386d4fc6360acd31",
+    "_layout": "right",
+    "_parentId": "59a722f8386d4fc6360acd2f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
+      "small": "course/en/assets/ae443dbaacece3c2e56cef4aa80f718b15b36b58.jpg",
+      "attribution": "<a href=\"http://www.freepik.com/free-vector/security-icon_1086687.htm#term=risk&page=1&position=30\" target=\"_blank\">Photoroyalty / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acec9",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360aceba",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "small": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acf02",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acebf",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "small": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59a71dca386d4fc6360accf8",
+    "_layout": "left",
+    "_parentId": "59a71dc2386d4fc6360accf7",
+    "_type": "component",
+    "body": "<p>Failing to follow the legal obligations&nbsp;is just as much an issue with using open data as with commercially available data. However with the data being available for everyone to access, use and share the ethical obligations also play a big role.&nbsp;</p>",
+    "displayTitle": "Legal, licensing and ethical risks",
+    "title": "Legal, licensing and ethical risks",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Explore the implication of each risk on using open data below:",
+    "_items": [
+      {
+        "title": "License compliance risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>You fail to follow the license conditions of an open data source.</p><p dir=\"ltr\"><strong>Identification: </strong>A publisher may block your access to their open data, if you have registered with them and have failed to follow the licensing conditions. They may send you a warning, but you may simply find out that you have been denied access when your product or service stops working. This is a self-inflicted version of &lsquo;closure risk&rsquo;.</p><p dir=\"ltr\"><strong>Solution: </strong>You should always ensure that you are clear on the licensing of open data sources and what you can use them for. You can find out more about open data licences <a href=\"http://accelerate.theodi.org/en/module4/#/id/co-01\" target=\"_blank\">in this module</a>.</p><p dir=\"ltr\"><strong>Example: </strong>OpenCorporates enables you to use their open data, but on a sharealike basis. If OpenCorporates discover that you have not shared open data or services back to the community after using their resources, <a href=\"https://opencorporates.com/info/licence\" target=\"_blank\">they may revoke your access</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legal risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>Inaccuracies in an open data source that you use causes your product or service to be inaccurate, which inconveniences or harms one of your clients. You could be liable, depending on the jurisdictions where you operate. Most open data sources are licensed to limit their liability.</p><p dir=\"ltr\"><strong>Identification: </strong>You may be contacted by a customer or legal representative, due to problems with your products and services.</p><p dir=\"ltr\"><strong>Solution: </strong>Seek legal advice when developing terms and conditions to protect you if service or product problems arise. Check and evaluate the quality of inbound open data sources and the frequency of their publication as well as you can.</p><p><strong>Example: </strong>TotalCarCheck enables potential car buyers to examine the history and performance of &nbsp;used cars which they may want to purchase. If a client of TotalCarCheck buys a vehicle as a result of a check, the company makes it clear that it will not be liable for the data failures of third party publishers, but if TotalCarCheck &nbsp;makes an error which causes a customer to lose the title or value of the car,<a href=\"https://totalcarcheck.co.uk/TermsAndConditions#t_Guarantee\" target=\"_blank\"> the client may be able to claim on a guarantee within 12 months.</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ethical risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>You use data which is technically open and legal, but which does not conform to ethical codes.</p><p dir=\"ltr\"><strong>Identification: </strong>The user community may report how the source of open data breaches ethical codes.</p><p dir=\"ltr\"><strong>Solution: </strong>When checking open data before you use it, try to assess how it has been collated and if it has been anonymised, aggregated and if it breaches ethical codes. &nbsp;The British government provides a <a href=\"https://www.gov.uk/government/publications/data-science-ethical-framework\" target=\"_blank\">framework</a> on how to use data ethically and the ICO provides a <a href=\"https://ico.org.uk/media/for-organisations/documents/1068/data_sharing_code_of_practice.pdf\" target=\"_blank\">code of conduct</a> on data sharing.</p><p><strong>Example: </strong>Medical patient data in the UK can be purchased by the private sector, with potential access to further &lsquo;identifiable&rsquo; data. <a href=\"http://www.independent.co.uk/life-style/gadgets-and-tech/news/google-deepmind-nhs-patients-data-deal-1-million-legal-inappropriate-dame-fiona-caldicott-a7738601.html\" target=\"_blank\">Google&rsquo;s DeepMind received 1.6 million patient records from the Royal Free Hospital Trust</a>, although questions have been raised over the legality of the transfer, as the data was not used for &lsquo;direct care&rsquo;, but in app testing.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59a722d6386d4fc6360acd11",
+    "_layout": "left",
+    "_parentId": "59a722c0386d4fc6360acd10",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to manage inbound open data risk?",
+    "title": "Are you ready to manage inbound open data risk?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59a723f4386d4fc6360acd95",
+    "_layout": "right",
+    "_parentId": "59a723e2386d4fc6360acd93",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acecf",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acebb",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59b7ee0d386d4fc6360acf21",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acec0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "small": "course/en/assets/39c343aca81e82ac6fbc3702050816c1269be49f.jpg",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">awesomecontent / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "59b7ee0d386d4fc6360acf62",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acec2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-two",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "59a723f2386d4fc6360acd94",
+    "_layout": "left",
+    "_parentId": "59a723e2386d4fc6360acd93",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">All organisations face risks in their activities - the key is to manage and minimise those risks.</p><p dir=\"ltr\">&lsquo;Inbound open data&rsquo; is open data that is published by external organisations, but is used in your organisation&rsquo;s products and/or activities.</p><p dir=\"ltr\">To use it successfully, you need to be able to identify the potential risks associated with using a particular source and consider solutions to manage problems that could arise.&nbsp;</p><p>Context is important&nbsp;in understanding&nbsp;risk. Even organisations which offer&nbsp;similar products in a similar sector,&nbsp;face different risks, due to&nbsp;their business model.</p><p>To find out more, take a look at these resources.</p><p><a class=\"button\" href=\"#/id/59b7ee0c386d4fc6360aceb7\">Managing outbound open data risks</a></p><p><a class=\"button\" href=\"https://www.futurelearn.com/courses/open-data-business\" target=\"_blank\">Using open data for digital business</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acee3",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acebe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Are you ready to manage outbound open data risk?",
+    "title": "Are you ready to manage outbound open data risk?",
+    "_isAvailable": true,
+    "_isOptional": true,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b7ee0d386d4fc6360acf40",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acec0",
+    "_type": "component",
+    "body": "<p><strong>What is one solution to overcome imitation risk?</strong></p>",
+    "displayTitle": "Overcoming outbound risks",
+    "title": "Overcoming outbound risks",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Continually improve your products and services",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Take legal action immediately",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Create a culture of secrecy within your organisation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Continually improving your products and services means that customers are more likely to choose you over competitors.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Continually improving your products and services means that customers are more likely to choose you over competitors.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "59b7ee0d386d4fc6360acf81",
+    "_layout": "full",
+    "_parentId": "59b7ee0c386d4fc6360acec3",
+    "_type": "component",
+    "body": "<p>Context is important&nbsp;in understanding&nbsp;risk. Even organisations which offer&nbsp;similar products in a similar sector,&nbsp;face different risks, due to&nbsp;their business model.</p>",
+    "displayTitle": " ",
+    "title": "Context ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acee4",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acebe",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "small": "course/en/assets/a516261fb9cb309e3b3d1116a192ecfc2a70fbad.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a18422bd78e42cc3a9cc454",
+    "_layout": "right",
+    "_parentId": "5a18422bd78e42cc3a9cc453",
+    "_type": "component",
+    "body": "<p>Publishing open data can create risks for the business model, particularly if the revenue model has changed. In addition, the more successful a business, the higher the risk of imitation and copycat businesses.</p><p>Explore each of these risks in&nbsp;more detail with examples below:</p>",
+    "displayTitle": "Revenue, imitation and copycat risks",
+    "title": "Revenue, imitation and copycat risks",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Revenue risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>You may choose to publish open data that you previously charged for as proprietary data and lose the revenue.</p><p dir=\"ltr\"><strong>Identification: </strong>When deciding to publish the data source, you will become aware of the potential revenue loss.</p><p dir=\"ltr\"><strong>Solution: </strong>You could create &lsquo;replacement income&rsquo; from elsewhere in the organisation using existing services, to generate additional revenue. You may also be able to develop new value-added services around your data, such as support and consultancy to assist those who use it commercially.</p><p dir=\"ltr\">An alternative is to license your open data, where access is throttled for heavier usage, or where users can access your data, but only if they use a share-alike license. In the first case, a heavy user could pay for greater access to the data. In the second, a commercial user who doesn&rsquo;t want to publish and share outputs, would have to pay for a commercial license.</p><p dir=\"ltr\"><strong>Example:</strong> For example, <a href=\"https://opencorporates.com/info/licence\" target=\"_blank\">OpenCorporates</a> publishes open data under a sharealike license, so if a user of their data doesn&rsquo;t want to publish their own open data or contributions, they have to pay to access the data under a different license.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Imitation risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>An external organisation may imitate your products and services using your own outbound open data.</p><p dir=\"ltr\"><strong>Identification:</strong> The first time you may become aware of this, is if you begin to lose customers, or by horizon scanning for competitors, and you see that your products and services have already been copied.</p><p dir=\"ltr\"><strong>Solution: </strong>You could change the licensing agreement limiting what the competitor can do with your open data. If it is used extensively, and if they are a registered user, you could throttle their access to your open data - an extreme solution would be to permanently remove that organisation&rsquo;s access, or to completely &lsquo;close&rsquo; certain data sources. The best solution is to focus on continually improving your products and services, to stay ahead of your imitating competitor.</p><p dir=\"ltr\"><strong>Example: </strong>Some markets can be more crowded and exposed to imitation risks than others. For example, a quick search of transport apps reveals a very crowded market with many similar and overlapping products. Some are more<a href=\"http://www.gizmodo.co.uk/2016/06/the-best-transport-apps/\" target=\"_blank\"> unique and bespoke</a>, but many are not.</p><p dir=\"ltr\">&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Copycat risks",
+        "body": "<p dir=\"ltr\"><strong>Risk: </strong>An extension of imitation risk is if an organisation moves beyond copying your product and service idea and attempts to copy your entire website/organisation fraudulently, aided by the use of open data.</p><p dir=\"ltr\"><strong>Identification: </strong>You may be contacted by a disgruntled customer or legal representative, due to problems with &lsquo;your&rsquo; products and services, or you may find the site when looking for competitors.</p><p dir=\"ltr\"><strong>Solution:</strong> If they are a registered user, and you can identify them, you could permanently remove that organisation&rsquo;s access, or consider completely closing certain data sources. You should seek legal advice, especially if they have copied trademarks and it is useful to keep a record of what material they have copied. You can also report the organisation to their website host and to search engines, to have them removed from search indexes.</p><p dir=\"ltr\"><strong>Example:</strong> <a href=\"https://www.theguardian.com/money/2016/aug/08/fake-websites-esta-ehic-duping-travellers\" target=\"_blank\">Unscrupulous operators have setup copycat websites of the US entry visa system</a> and European&nbsp; health insurance cards (EHIC), duping unsuspecting travellers into paying unnecessary administration fees.</p><p dir=\"ltr\">&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a18422bd78e42cc3a9cc455",
+    "_layout": "left",
+    "_parentId": "5a18422bd78e42cc3a9cc453",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c0ab3914e0f43753e678d92269d3848f70cb60ce.png",
+      "small": "course/en/assets/c0ab3914e0f43753e678d92269d3848f70cb60ce.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "59b7ee0c386d4fc6360acee1",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acebd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Transport for London",
+    "title": "Transport for London",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Non-publication (Low risk/ High severity)",
+        "body": "<p>TfL would not benefit from closing its open data, as so many external apps are reliant on it, but also because those apps are ultimately used by TfL&rsquo;s own customers. As a government agency, it also has a responsibility to publish open data, too (low likelihood). Over 600 apps use TfL&rsquo;s open data, which would have an impact on 42% of Londoners, if it were closed (high severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reputation and brand (Low risk/Low severity)",
+        "body": "<p>TfL publishes real time open data through an API. It is accurate and established, but TfL also works closely with the user community, to manage any problems (low likelihood). Given that TfL works closely with the developer community, problems can be quickly resolved, but external developers are ultimately heavily reliant on using TfL&rsquo;s open data (low severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Affiliation (Low risk / Low severity)",
+        "body": "<p>TfL makes it clear in its licensing that users of its open data are not to suggest an endorsement, which reduces affiliation risk, if licensing is followed (low likelihood). Many developers use TfL&rsquo;s open data, so it would be clear that low quality services are down to an app developer, rather than TfL (low severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legal ( Low risk / Low severity)",
+        "body": "<p>The license for using TfL&rsquo;s open data is clear that &lsquo;TfL is not liable for any errors or omissions in the Information&rsquo;, protecting the organisation (low likelihood). As the license is clear the severity risk is also low.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ethics ( Low risk / Low severity)",
+        "body": "<p>TfL&rsquo;s open data refers to vehicle movements and assets, such as the location of facilities, rather than the personal data of commuters (low likelihood). Given that the data represents non-human actors, the severity is also low.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Revenue (Low risk / Low severity)",
+        "body": "<p>Much of TfL&rsquo;s data has to be publically available anyway, for example, timetable data, so this data has to be freely available and cannot be charged for (low likelihood). &nbsp;In theory, the severity could be high, but a public transport provider cannot function with closed timetables (low severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Imitation (Low risk / Low severity)",
+        "body": "<p>Given the unique size and power of TfL, it is unlikely that a competitor could imitate its transport services. As a public body, an imitator would have to be a duplicated government agency (low likelihood and low severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Copycat (Low / Medium)",
+        "body": "<p>Given that TfL makes available transport data for free, there would be no commercial advantage to copying the site, unless the intention was to provide inaccurate data to users through a live API, which would require substantial resources (low likelihood). The supply of incorrect open data, if used by developers, could temporarily create disruption to transport app users (medium likelihood), but it&rsquo;s likely this incorrect source would be uncovered by the developers before the app is launched.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a1843ead78e42cc3a9cc45c",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acebd",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "OpenCorporates",
+    "title": "OpenCorporates",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Non-publication (Low risk/ High severity)",
+        "body": "<p>One of OpenCorporates&rsquo; main aims is to provide transparency around corporate ownership, so not publishing open data would contradict its mission and culture, so it has no incentive to close data (low likelihood). If it was to close open data sources, it would undermine its main mission (high severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reputation and brand (Low risk / High severity)",
+        "body": "<p>As OpenCorporates seeks to publish open data on companies for transparency, accuracy is important, and it retains good relationships with the community, so data quality will be high (low likelihood). If open data was inaccurate or closed, this could negatively affect the reputation of OpenCorporates (high severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Affiliation (Low risk / Medium severity)",
+        "body": "<p>OpenCorporates makes it clear that its sharealike licensing does not cover the use of its trademarks, which reduces affiliation risk, if licensing is followed (low likelihood). If it&rsquo;s open data on corporate transparency was misrepresented, this could affect its reputation (medium severity).</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Legal ( Low risk / Low severity)",
+        "body": "<p>OpenCorporates provides clear licensing which state that You use the company data entirely at your own risk&rsquo;, with a list of circumstances under which they will not be liable, protecting them from any errors in their open data (low likelihood). As the license is clear, the severity risk is also low.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Ethics ( Low risk / Low severity)",
+        "body": "<p>OpenCorporates&rsquo; open data refers to company details, such as their date of incorporation and registered address, rather than personal information (low likelihood). Data on directors is recorded, but this is necessary to provide transparency over who controls the companies, so the overall severity is also low.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Revenue (Low risk / Low severity)",
+        "body": "<p>OpenCorporates seeks to develop social value and publishing open data is part of their mission. The data has always been open, so revenue is not &lsquo;lost&rsquo;, as it isn&rsquo;t opened proprietary data (low risk). The severity is low, as the open data has always been available.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Imitation (Medium risk / Low severity)",
+        "body": "<p>OpenCorporates draws upon open data published by others, and there are some similar organisations that provide company open data with additional services, such as Duedil, so it is not unreasonable to assume that others can imitate OpenCorporates (medium likelihood). However, OpenCorporates state that it may forbid an organisation or individual from using its open data and may consider prosecution in some cases, reducing the impact (low severity)</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Copycat (Medium / Low)",
+        "body": "<p>As OpenCorporates provides open data, there would be no commercial advantage to copying the site, unless the intention was to provide inaccurate data to users, which would require substantial resources (low likelihood). The supply of incorrect open data, if used by developers, could temporarily create disruption to app users (medium likelihood), but it&rsquo;s likely this incorrect source would be uncovered by the developers before the app is launched.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "59b7ee0d386d4fc6360acf61",
+    "_layout": "left",
+    "_parentId": "59b7ee0c386d4fc6360acec2",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">All organisations face risks in their activities - the key is to manage and minimise those risks.</p><p dir=\"ltr\">&lsquo;Outbound open data&rsquo; is open data that is published by your organisation and is used externally by the wider community to create new products and services. Publishing data has different risks than using it.</p><p dir=\"ltr\">Context is important&nbsp;in understanding&nbsp;risk. Even organisations which offer&nbsp;similar products in a similar sector,&nbsp;face different risks, due to&nbsp;their business model.&nbsp; Take time to consider the likelihood of a particular risk occurring, but also its severity, and how easily the risk can be managed. &nbsp;</p><p>To find out more, take a look at these resources.</p><p><a class=\"button\" href=\"#/id/59a71aef386d4fc6360acce7\">Managing inbound open data&nbsp;risks</a></p><p><a class=\"button\" href=\"https://www.futurelearn.com/courses/open-data-business\" target=\"_blank\">Using open data for digital business</a></p><p>&nbsp;</p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a1ea018d78e42cc3a9cc660",
+    "_layout": "right",
+    "_parentId": "59b7ee0c386d4fc6360acebc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "small": "course/en/assets/c943de1cc82e40d1505e77ce98ba5ec0d68ba4ef.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-173642015.html\" target=\"_blank\">Scanrail1</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a1ecc21d78e42cc3a9cc826",
+    "_layout": "left",
+    "_parentId": "5a1ecc21d78e42cc3a9cc825",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "white",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "small": "course/en/assets/acf5fafa193ef4bb8815fd24cea76dc89bd93701.png",
+      "attribution": "<a href=\"http://www.freepik.com/free-photos-vectors/business\" target=\"_blank\">Photoroyalty - Freepik.com </a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a1ecc21d78e42cc3a9cc845",
+    "_layout": "right",
+    "_parentId": "5a1ecc21d78e42cc3a9cc825",
+    "_type": "component",
+    "body": "<p><strong>Why should Open Corporates worry about reputation risk from publishing poor quality data?</strong></p>",
+    "displayTitle": "Risk likelihood severity in context",
+    "title": "Risk likelihood severity in context",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "The company relies on maintaining good relationship with the user community",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Their focus is on profitability",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "It's important to protect the reputation of multi-national corporations",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>As OpenCorporates seeks to publish open data on companies for transparency, accuracy is important, and it retains good relationships with the community, so data quality will be high (low likelihood). If open data was inaccurate or closed, this could negatively affect the reputation of OpenCorporates (high severity).</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>As OpenCorporates seeks to publish open data on companies for transparency, accuracy is important, and it retains good relationships with the community, so data quality will be high (low likelihood). If open data was inaccurate or closed, this could negatively affect the reputation of OpenCorporates (high severity).</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  }
+]

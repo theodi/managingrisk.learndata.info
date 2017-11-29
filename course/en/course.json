@@ -1,0 +1,210 @@
+{
+  "_globals": {
+    "_extensions": {
+      "_aboutPage": {
+        "SL_youtube": "",
+        "SL_vimeo": "",
+        "SL_twitter": "",
+        "SL_soundcloud": "",
+        "SL_scribd": "",
+        "SL_github": "",
+        "SL_flickr": "",
+        "SL_facebook": "",
+        "SL_text": "",
+        "aboutCredit": "",
+        "contactLinkText": "Contact",
+        "contactEMail": "training@theodi.org",
+        "titleText": "About",
+        "linkText": "About"
+      },
+      "_skillsFramework": {
+        "titleText": "Learning outcomes",
+        "linkText": "Outcomes"
+      },
+      "_pageLevelProgress": {
+        "optionalContent": "Optional Content",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgress": "Page sections"
+      },
+      "_ODILicence": {
+        "linkText": "Licence",
+        "titleText": "Licence"
+      }
+    },
+    "_components": {
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_graphic": {
+        "ariaRegion": ""
+      }
+    },
+    "_accessibility": {
+      "_ariaLabels": {
+        "menuIndicatorHeading": "Menu item heading ",
+        "menuBack": "Back to menu",
+        "visited": "Visited",
+        "feedbackPopUp": "Popup opened",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "locked": "Locked",
+        "correct": "Correct",
+        "incomplete": "Incomplete",
+        "complete": "Complete",
+        "done": "Done",
+        "next": "Next",
+        "closePopup": "Close popup",
+        "drawer": "Side drawer",
+        "drawerBack": "Back to drawer",
+        "closeResources": "Close resources",
+        "navigationDrawer": "Open course resources and search",
+        "navigationBack": "Navigate back",
+        "previous": "Back",
+        "pageLoaded": "Page loaded",
+        "page": "Page",
+        "menuViewButton": "Select here to enter",
+        "menuItem": "Menu item",
+        "menu": "Menu",
+        "menuLoaded": "Menu loaded",
+        "navigation": "Course navigation bar"
+      },
+      "_accessibilityInstructions": {
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page."
+      },
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "accessibilityToggleTextOn": "Turn accessibility on?"
+    }
+  },
+  "_id": "course",
+  "_start": {
+    "_isMenuDisabled": false,
+    "_force": false,
+    "_startIds": [],
+    "_isEnabled": false
+  },
+  "_type": "course",
+  "_lockType": "",
+  "_classes": "",
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled at the moment",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "remaining attempts",
+    "_showFeedback": {
+      "ariaLabel": "Show feedback",
+      "buttonText": "Show feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Hide correct answer",
+      "buttonText": "Hide correct answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Show correct answer",
+      "buttonText": "Show correct answer"
+    },
+    "_reset": {
+      "ariaLabel": "Reset",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Submit",
+      "buttonText": "Submit"
+    }
+  },
+  "_latestTrackingId": 24,
+  "body": "",
+  "displayTitle": "Risk management",
+  "title": "Risk management",
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true
+  },
+  "_aboutPage": {
+    "_items": [
+      {
+        "_graphic": {
+          "src": "course/en/assets/7b8e602478c1298d0e756f15c6571b30c8e7714a.jpg",
+          "alt": ""
+        },
+        "description": "<p><a href=\"https://pure.royalholloway.ac.uk/portal/en/persons/thomas-wainwright(705d1fb2-f82b-43f4-9e10-6163b63ec8b3).html\" target=\"_blank\">Dr Tom Wainwright</a> is Reader in Strategy and Entrepreneurship at RHUL. He is interested in digital technologies, open data, open innovation, and business models.</p>",
+        "title": "Royal Holloway University London"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/79260f52df72950115c0470071792635bcf94e61.png",
+          "alt": ""
+        },
+        "description": "<p>Expert knowledge, content development and learning plans provided by the by&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a>&nbsp;training team.</p>",
+        "title": "ODI Training Team"
+      },
+      {
+        "_graphic": {
+          "src": "course/en/assets/d83ce940ff76810967a9ec101f4cb6fefd54a4d0.png",
+          "alt": ""
+        },
+        "description": "<p>Open source learning platform developed by&nbsp;<a href=\"https://www.adaptlearning.org/\" tabindex=\"0\" target=\"_blank\">Adapt learning</a>.</p>",
+        "title": "Adapt learning"
+      }
+    ]
+  },
+  "_ODILicence": {
+    "_items": [
+      {
+        "title": "",
+        "description": "<p>Risk management&nbsp;eLearning by &quot;<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a>&quot;&nbsp;and &quot;<a href=\"https://www.royalholloway.ac.uk/home.aspx\" target=\"_blank\">Royal Holloway, University of London</a>&quot;&nbsp;is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by-sa/4.0/\" target=\"_blank\">Creative Commons Attribution-ShareAlike 4.0 International Licence</a></p>",
+        "_graphic": {
+          "alt": "",
+          "src": "https://licensebuttons.net/l/by-sa/4.0/88x31.png"
+        }
+      },
+      {
+        "title": "Attribution requirements",
+        "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\">here</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Content usage",
+        "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Exclusions",
+        "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "Non-endorsement",
+        "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      },
+      {
+        "title": "No warranty",
+        "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor Royal Holloway, University of London are liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": ""
+        }
+      }
+    ]
+  }
+}
