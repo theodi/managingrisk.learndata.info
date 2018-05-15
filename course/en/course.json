@@ -1,123 +1,123 @@
 {
+  "_id": "course",
   "_globals": {
+    "_accessibility": {
+      "accessibilityToggleTextOn": "Turn accessibility on?",
+      "accessibilityToggleTextOff": "Turn accessibility off?",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading "
+      }
+    },
+    "_components": {
+      "_graphic": {
+        "ariaRegion": ""
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_mcq": {
+        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
+      },
+      "_accordion": {
+        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
+      }
+    },
     "_extensions": {
-      "_aboutPage": {
-        "SL_youtube": "",
-        "SL_vimeo": "",
-        "SL_twitter": "",
-        "SL_soundcloud": "",
-        "SL_scribd": "",
-        "SL_github": "",
-        "SL_flickr": "",
-        "SL_facebook": "",
-        "SL_text": "",
-        "aboutCredit": "",
-        "contactLinkText": "Contact",
-        "contactEMail": "training@theodi.org",
-        "titleText": "About",
-        "linkText": "About"
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
+        "pageLevelProgressMenuBar": "You have completed ",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional Content"
       },
       "_skillsFramework": {
-        "titleText": "Learning outcomes",
-        "linkText": "Outcomes"
+        "linkText": "Outcomes",
+        "titleText": "Learning outcomes"
       },
-      "_pageLevelProgress": {
-        "optionalContent": "Optional Content",
-        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
-        "pageLevelProgressMenuBar": "You have completed ",
-        "pageLevelProgressIndicatorBar": "Progress bar. Select here to view your current progress, and select an item to navigate to it. You have completed ",
-        "pageLevelProgress": "Page sections"
+      "_aboutPage": {
+        "linkText": "About",
+        "titleText": "About",
+        "contactEMail": "training@theodi.org",
+        "contactLinkText": "Contact",
+        "aboutCredit": "",
+        "SL_text": "",
+        "SL_facebook": "",
+        "SL_flickr": "",
+        "SL_github": "",
+        "SL_scribd": "",
+        "SL_soundcloud": "",
+        "SL_twitter": "",
+        "SL_vimeo": "",
+        "SL_youtube": ""
       },
       "_ODILicence": {
         "linkText": "Licence",
         "titleText": "Licence"
       }
-    },
-    "_components": {
-      "_accordion": {
-        "ariaRegion": "This component is an accordion comprised of collapsible content panels containing display text. Select the item titles to toggle the visibility of these content panels."
-      },
-      "_mcq": {
-        "ariaRegion": "This component is a multiple choice question. Once you have selected an option select the submit button below"
-      },
-      "_text": {
-        "ariaRegion": ""
-      },
-      "_graphic": {
-        "ariaRegion": ""
-      }
-    },
-    "_accessibility": {
-      "_ariaLabels": {
-        "menuIndicatorHeading": "Menu item heading ",
-        "menuBack": "Back to menu",
-        "visited": "Visited",
-        "feedbackPopUp": "Popup opened",
-        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
-        "locked": "Locked",
-        "correct": "Correct",
-        "incomplete": "Incomplete",
-        "complete": "Complete",
-        "done": "Done",
-        "next": "Next",
-        "closePopup": "Close popup",
-        "drawer": "Side drawer",
-        "drawerBack": "Back to drawer",
-        "closeResources": "Close resources",
-        "navigationDrawer": "Open course resources and search",
-        "navigationBack": "Navigate back",
-        "previous": "Back",
-        "pageLoaded": "Page loaded",
-        "page": "Page",
-        "menuViewButton": "Select here to enter",
-        "menuItem": "Menu item",
-        "menu": "Menu",
-        "menuLoaded": "Menu loaded",
-        "navigation": "Course navigation bar"
-      },
-      "_accessibilityInstructions": {
-        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select.",
-        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
-        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page."
-      },
-      "accessibilityToggleTextOff": "Turn accessibility off?",
-      "accessibilityToggleTextOn": "Turn accessibility on?"
     }
   },
-  "_id": "course",
   "_start": {
-    "_isMenuDisabled": false,
-    "_force": false,
+    "_isEnabled": false,
     "_startIds": [],
-    "_isEnabled": false
+    "_force": false,
+    "_isMenuDisabled": false
   },
   "_type": "course",
   "_lockType": "",
   "_classes": "",
   "_buttons": {
-    "disabledAriaLabel": "This button is disabled at the moment",
-    "remainingAttemptText": "final attempt",
-    "remainingAttemptsText": "remaining attempts",
-    "_showFeedback": {
-      "ariaLabel": "Show feedback",
-      "buttonText": "Show feedback"
-    },
-    "_hideCorrectAnswer": {
-      "ariaLabel": "Hide correct answer",
-      "buttonText": "Hide correct answer"
-    },
-    "_showCorrectAnswer": {
-      "ariaLabel": "Show correct answer",
-      "buttonText": "Show correct answer"
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
     },
     "_reset": {
-      "ariaLabel": "Reset",
-      "buttonText": "Reset"
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
     },
-    "_submit": {
-      "ariaLabel": "Submit",
-      "buttonText": "Submit"
-    }
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
   },
   "_latestTrackingId": 24,
   "body": "",
@@ -204,6 +204,27 @@
           "alt": "",
           "src": ""
         }
+      }
+    ]
+  },
+  "_trackingHub": {
+    "saveTitle": "Save your progress",
+    "saveBody": "<p>Please enter your&nbsp;<strong>email</strong>&nbsp;address in the box below. You will receive an email linking to your unique profile so you can save your progress and resume your learning on any device.</p>",
+    "fields": [
+      {
+        "required": true,
+        "placeholder": "",
+        "type": "email",
+        "title": "EMail",
+        "id": "email"
+      }
+    ]
+  },
+  "_FooterLink": {
+    "_items": [
+      {
+        "title": "Privacy policy",
+        "link": "https://theodi.org/about-the-odi/legal/privacy-policy"
       }
     ]
   }

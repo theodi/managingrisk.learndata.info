@@ -9,7 +9,6 @@
     "medium": 759,
     "small": 519
   },
-  "_id": "59a71aed386d4fc6360acce6",
   "_drawer": {
     "_duration": 400,
     "_hideEasing": "easeInQuart",
@@ -23,21 +22,45 @@
     "_isEnabled": false
   },
   "__v": 0,
+  "_id": "59a71aed386d4fc6360acce6",
   "_tutor": {
     "_isEnabled": false
+  },
+  "_trackingHub": {
+    "_isEnabled": true,
+    "_courseID": "https://riskmanagement.learndata.info/",
+    "_channels": [
+      {
+        "_isStateSource": true,
+        "_saveStateIsEnabled": true,
+        "_transport": {
+          "_auth": {
+            "_password": "",
+            "_username": ""
+          },
+          "_endpoint": "https://lms2.learndata.info/api/v2/",
+          "_handlerName": "ODILRSStorageTransportHandler"
+        },
+        "_msgComposerName": "learnifyMessageComposer",
+        "_isEnabled": true,
+        "_name": "LRS"
+      }
+    ]
   },
   "build": {
     "includes": [
       "adapt-theme-odi",
       "adapt-contrib-boxMenu",
+      "adapt-odi-footerLink",
       "adapt-odi-licence",
       "adapt-contrib-aboutPage",
       "adapt-contrib-tutor",
       "adapt-contrib-pageLevelProgress",
       "adapt-skillsFramework",
-      "adapt-contrib-text",
+      "adapt-trackingHub",
       "adapt-contrib-mcq",
       "adapt-contrib-graphic",
+      "adapt-contrib-text",
       "adapt-contrib-accordion"
     ]
   }
